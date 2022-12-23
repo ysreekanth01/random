@@ -7,7 +7,7 @@ public class DataProvider {
 	@Test(dataProvider="")
 	public void test() {
 
-}}
+}
 
 @DataProvider
 public void getData() {
